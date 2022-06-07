@@ -14,7 +14,7 @@
 		111        q += f" {config.Search}"
    ```
 4. Now if you run "ex.py", the scraping will start. 
-5. Scraping results will saved separately in json files in folder ./json-files
+5. Scraping results for each day will be saved separately in json files in folder ./json-files
 6. Scraping logs for each day will be saved in folder ./logs
 
 #*ex.py will create folders "./logs" and "./json-files" itself
