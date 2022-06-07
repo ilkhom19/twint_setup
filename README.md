@@ -2,7 +2,7 @@
 
 
 1. Clone the project from: https://github.com/twintproject/twint.git.
-2. Install dependencies using commands shown in the [github page]https://github.com/twintproject/twint.git. 
+2. Install dependencies using commands shown in the [github page](https://github.com/twintproject/twint.git). 
 3. Once it is installed and works, fix language problem as shown below:
    ```
 	Type "pip show twint" into the command line, follow the path shown at "Location", then open the folder named "twint" and change these lines:
