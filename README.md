@@ -6,7 +6,6 @@
 3. Test the installation and Make sure it works finely & all requirements are installed.
    ```
    	twint -u "elonmusk"
-	
    ```
 5. Once it is installed and works, fix language problem as shown below:
 	
