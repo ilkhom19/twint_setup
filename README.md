@@ -1,4 +1,4 @@
-## Here is a tutoril to setup Twint & automate processes:
+## Here is a tutorial to setup Twint & automate processes:
 ![photo_2022-06-10_18-01-22](https://user-images.githubusercontent.com/70379907/173060204-2662a727-6fe2-413e-b2ab-30e0ae7d7dbe.jpg)
 1. pip install aiohttp==3.7.0
 2. Install dependencies using commands shown in the [github page](https://github.com/twintproject/twint.git). 
